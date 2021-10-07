@@ -1,0 +1,55 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2rem 0;
+
+  > div {
+    display: flex;
+    flex-direction: column;
+
+    a {
+      margin-bottom: 1rem;
+
+      h3 {
+        font-weight: 'bold';
+        font-size: 1.75rem;
+        color: var(--heading);
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        font-size: 1.125rem;
+        margin-bottom: 0.75rem;
+        transition: color 0.2s;
+
+        &:hover {
+          color: var(--highlight);
+        }
+      }
+    }
+  }
+
+  button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: var(--highlight);
+  }
+
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  color: var(--info);
+  font-size: 0.875rem;
+
+  span + span {
+    margin-left: 1rem;
+  }
+
+  time {
+    margin-left: 0.25rem;
+  }
+}
