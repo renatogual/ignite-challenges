@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o Ignite
 
-O Ignite é um programa de aceleração de carreira desenvolvido pela [Rocketseat](https://app.rocketseat.com.br/) para quem já domina os fundamentos da programação e quer se preparar para as melhores oportunidades do mercado. 
+O Ignite é um programa de aceleração de carreira desenvolvido pela [Rocketseat](https://www.rocketseat.com.br/) para quem já domina os fundamentos da programação e quer se preparar para as melhores oportunidades do mercado. 
 
 Nesse programa entra-se a fundo em uma tecnologia específica, através de um currículo desenhado em parceria com diversas empresas do mercado de tecnologia atual, além de contar com uma metodologia que visa preparar os alunos para desafios verdadeiros do mundo real.
 
