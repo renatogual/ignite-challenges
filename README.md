@@ -37,4 +37,5 @@ Além disso, para se destacar como profissional, precisa-se ir além do código.
 ## 📁 Projetos
 - [Dt Money](https://github.com/renatogual/dtmoney-ignite-react)
 - [Ig News](https://github.com/renatogual/ignews-ignite-nextjs)
+- [Dashgo](https://github.com/renatogual/dashgo-ignite-chakraui)
 
