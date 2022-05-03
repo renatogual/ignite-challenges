@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center"> 
-	Ignite - Trilha ReactJS
+	Ignite - Trilha React JS
 </h2>
 
 <p align="center">
